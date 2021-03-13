@@ -1,5 +1,5 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"]
-const OriginalOwner = '557187645787'
+const ownerNumber = ["14502355564@s.whatsapp.net"]
+const OriginalOwner = '14502355564'
 
 exports.OriginalOwner = OriginalOwner
 exports.ownerNumber = ownerNumber
