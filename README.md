@@ -1,4 +1,4 @@
-# Brizas-bot
+# 𝗟𝗼𝗿𝗱 𝗕𝗼𝘁
 <h1 align="center">
     <img src= "https://ik.imagekit.io/tiu4ccatpmq/logo_size_DMp1826OOKxX.jpg">
 </h1>
