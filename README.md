@@ -1,31 +1,16 @@
 # 𝗟𝗼𝗿𝗱 𝗕𝗼𝘁
 <h1 align="center">
-    <img src= "https://ik.imagekit.io/tiu4ccatpmq/logo_size_DMp1826OOKxX.jpg">
+    <img src= "https://larepublica.pe/resizer/j4drY9nI27zJuJmRMPJBV7rdHoI=/1200x660/top/arc-anglerfish-arc2-prod-gruporepublica.s3.amazonaws.com/public/HLPDE6DYZRD5LMDSWNI7OGL434.jpg">
 </h1>
 
-# Índice
-- [O que é?](#O-que-é-?)
-- [Instalação](#Instalação)
-- [Donate](#Donate)
-- [Contatos](#Contato)
-
-# O que é ?
-
-O Brizas-bot é um bot do modificado do [MhankBar](https://github.com/MhankBarBar/termux-wabot) e traduzido para o português pt-br, e usado no termux e é bem facil a instalação, segue os comandos de como instalar o Brizas-bot
-ATENÇÃO O BOT É FEITO PARA QUE TEM UM CERTO CONHECIMENTO EM JAVASCRIPT, NODEJS E LINUX. CONTATE O CRIADOR SOMENTE PARA CASO DE REPORT DE ERROS E BUGS
-
----
-
-
-# Instalação
+# Instalacion
 
 [termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
+git clone https://github.com/botwhatsappnao/Brizas-bot
 cd Brizas-bot
 bash install.sh
-npm install
 
 (iniciar o bot manualmente)
 npm start
@@ -38,7 +23,7 @@ pm2 start index.js
 
 ```
 ---
-# Como mudar o propietário do bot
+# Como mudar o propietário del bot
 ```
 cd
 cd Brizas-bot
@@ -48,7 +33,7 @@ nano numowner.js
 (ATENÇÃO MUDE APENAS OS NUMEROS ENTRE OS ACENTOS, NÃO REMOVA O @s.whatsapp.net)
 ```
 
-# Como ativar o unbanwpp
+# Como activar o unbanwpp
 ```
 cd
 cd Brizas-bot
@@ -57,13 +42,4 @@ nano emailacc.js
 (coloque um e-mail do gmail , a senha e se quiser mudar o email que manda para o suporte, tambem pode)
 ```
 ---
-# Donate
-
-[Doações](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
-
----
-
-# Contato
-
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
 
